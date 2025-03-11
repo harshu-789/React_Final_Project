@@ -134,4 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons by [Lucide](https://lucide.dev)
 - UI components styled with [Tailwind CSS](https://tailwindcss.com)
 
-- Github: 
+- Github: https://github.com/harshu-789/React_Final_Project
