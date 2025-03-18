@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import {useDispatch} from "react-redux";
-import { addToCart , removeFromCart } from "../Store/cartSlice";
+import { addToCart } from "../Store/cartSlice";
 import {Star, ShoppingCart} from "lucide-react"
 
 
